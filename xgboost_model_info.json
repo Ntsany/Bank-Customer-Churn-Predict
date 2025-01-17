@@ -1,0 +1,1 @@
+{"best_parameters": {"classifier__colsample_bytree": 1.0, "classifier__learning_rate": 0.1, "classifier__max_depth": 4, "classifier__n_estimators": 200, "classifier__subsample": 0.8}, "train_accuracy": 0.929, "train_f1": 0.8056125941136209, "test_accuracy": 0.8145, "test_f1": 0.6048988285410011, "model_type": "XGBoost with SMOTE"}
