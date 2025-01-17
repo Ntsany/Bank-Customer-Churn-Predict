@@ -1,0 +1,3 @@
+URL NISRINA TSANY SULTHANAH - FTDS BATCH038
+url dataset = https://www.kaggle.com/datasets/saurabhbadole/bank-customer-churn-prediction-dataset
+url deployment = https://huggingface.co/spaces/Ntsany/Churn-BankCustomer-Prediction
